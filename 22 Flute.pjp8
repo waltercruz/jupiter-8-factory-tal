@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<tal>
+  <programs>
+    <program version="1" path="/Users/patrickkunz/Library/Application Support/ToguAudioLine/TAL-J-8/presets/Jupiter 8 Factory/22 Flute.pjp8"
+             programname="22 Flute" mastervolume="0.5026594400405884" mastertune="0.5"
+             masteroctave="0.5" numberofvoices="0.6363636255264282" keymode="0.8658970594406128"
+             panelmodelowhigh="0.7202187776565552" balance="0.5" holdUpper="0.0"
+             holdLower="0.0" paramportamentoamount="0.0" paramportamentomode="0.0"
+             paramportamentotimemode="0.0" paramvcopitchwheel="1.0" paramvcopitchwheeldest="0.4806475043296814"
+             paramvcfpitchwheel="0.0" paramlfovcomodwheel="1.0" paramlfovcfmodwheel="0.0"
+             assignmode1="0.635986328125" assignmode2="0.6164280772209167"
+             pan1="0.5" pan2="0.5" finetune1="0.5" finetune2="0.5" vcotone1="0.0"
+             vcotone2="0.0" drivetone1="0.0" drivetone2="0.0" resonancetone1="0.0"
+             resonancetone2="0.0" arprate1="0.1934335231781006" arprate2="0.5312852263450623"
+             arpsync1="0.0" arpsync2="0.0" arprange1="0.0" arprange2="0.54730224609375"
+             arpmode1="0.0" arpmode2="0.02066369913518429" arpsyncmode="0.3333333432674408"
+             lforate1="0.2000000029802322" lforate2="0.7416945099830627" lfosync1="0.0"
+             lfosync2="0.0" lfodelay1="0.0" lfodelay2="0.2492175400257111"
+             lfowaveform1="0.0" lfowaveform2="0.0" lfotrigger1="0.0" lfotrigger2="0.0"
+             vcomodulatorlfoamount1="0.5" vcomodulatorlfoamount2="0.5" vcomodulatorenvamount1="0.5"
+             vcomodulatorenvamount2="0.5" vcomodulatorvcodestination1="0.0"
+             vcomodulatorvcodestination2="0.3994445502758026" vcomodulatorpwmamount1="0.0"
+             vcomodulatorpwmamount2="0.0" vcomodulatorpwmsource1="0.0" vcomodulatorpwmsource2="0.6665754914283752"
+             vcomodulatorpwmsourceinv1="0.0" vcomodulatorpwmsourceinv2="0.0"
+             paramattackenv11="0.0" paramattackenv12="0.2938888370990753"
+             paramdecayenv11="0.6816177368164062" paramdecayenv12="0.6425955295562744"
+             paramsustainenv11="0.0" paramsustainenv12="0.5275766253471375"
+             paramreleaseenv11="0.5992077589035034" paramreleaseenv12="0.2987768650054932"
+             paramkeyfollowenv11="0.0" paramkeyfollowenv12="1.0" paramattackenv21="0.0"
+             paramattackenv22="0.1940905749797821" paramdecayenv21="0.0" paramdecayenv22="0.0"
+             paramsustainenv21="1.0" paramsustainenv22="1.0" paramreleaseenv21="0.6614382863044739"
+             paramreleaseenv22="0.3716604709625244" paramkeyfollowenv21="0.0"
+             paramkeyfollowenv22="1.0" vcomix1="0.5" vcomix2="0.1370761692523956"
+             vco1crossamount1="0.0" vco1crossamount2="0.0" vco1range1="0.6895027160644531"
+             vco1range2="0.6338096857070923" vco1wave1="0.2000000029802322"
+             vco1wave2="0.008847572840750217" vco2range1="0.3477431535720825"
+             vco2range2="0.0" vco2wave1="0.2000000029802322" vco2wave2="1.0"
+             vco2finetune1="0.5" vco2finetune2="0.5045040845870972" vco2sync1="0.9273313879966736"
+             vco2sync2="1.0" vco2lowfreq1="1.0" vco2lowfreq2="1.0" paramhpcutoff1="0.0"
+             paramhpcutoff2="0.0" paramfiltercutoff1="0.4318200647830963"
+             paramfiltercutoff2="0.2916023135185242" paramfilterresonance1="1.0"
+             paramfilterresonance2="0.0" paramfilterslope1="0.0" paramfilterslope2="1.0"
+             paramfilterenvelope1="0.8888958692550659" paramfilterenvelope2="0.8303483724594116"
+             paramfilterenvelopesource1="0.6067315936088562" paramfilterenvelopesource2="1.0"
+             paramfilterlfo1="0.5" paramfilterlfo2="0.7174157500267029" paramfilterkeyfollow1="0.5"
+             paramfilterkeyfollow2="0.6186254620552063" paramfiltervelocity1="0.0"
+             paramfiltervelocity2="0.0" paramvcaamount1="0.5" paramvcaamount2="0.5204963088035583"
+             paramvcalfoamount1="0.5" paramvcalfoamount2="0.5" paramvcavelocityamount1="0.0"
+             paramvcavelocityamount2="0.0" mpeCutoff1="0.0" mpeCutoff2="0.0"
+             mpeVolume1="0.0" mpeVolume2="0.0" unisonoVoices1="1.0" unisonoVoices2="1.0"
+             unisonoDetune1="0.1000000014901161" unisonoDetune2="0.08087670803070068"
+             unisonoSpread1="1.0" unisonoSpread2="0.0" chorusOne="0.0" chorusTwo="0.0"
+             delayDryWet="0.0" delayTime="0.2949597239494324" delaySync="0.0"
+             delaySpread="0.7659985423088074" delayLowCut="0.815350353717804"
+             delayHighCut="0.1556982398033142" delayFeedback="0.3986400067806244"
+             engineoff="0.0" mpeEnabled="0.0" pitchwheel="0.5" modulationwheel="0.0"
+             category="Jupiter 8 Factory">
+      <tuningtable name="No Microtuning">
+        <entry tuning="0.0"/>
+        <entry tuning="1.0"/>
+        <entry tuning="2.0"/>
+        <entry tuning="3.0"/>
+        <entry tuning="4.0"/>
+        <entry tuning="5.0"/>
+        <entry tuning="6.0"/>
+        <entry tuning="7.0"/>
+        <entry tuning="8.0"/>
+        <entry tuning="9.0"/>
+        <entry tuning="10.0"/>
+        <entry tuning="11.0"/>
+        <entry tuning="12.0"/>
+        <entry tuning="13.0"/>
+        <entry tuning="14.0"/>
+        <entry tuning="15.0"/>
+        <entry tuning="16.0"/>
+        <entry tuning="17.0"/>
+        <entry tuning="18.0"/>
+        <entry tuning="19.0"/>
+        <entry tuning="20.0"/>
+        <entry tuning="21.0"/>
+        <entry tuning="22.0"/>
+        <entry tuning="23.0"/>
+        <entry tuning="24.0"/>
+        <entry tuning="25.0"/>
+        <entry tuning="26.0"/>
+        <entry tuning="27.0"/>
+        <entry tuning="28.0"/>
+        <entry tuning="29.0"/>
+        <entry tuning="30.0"/>
+        <entry tuning="31.0"/>
+        <entry tuning="32.0"/>
+        <entry tuning="33.0"/>
+        <entry tuning="34.0"/>
+        <entry tuning="35.0"/>
+        <entry tuning="36.0"/>
+        <entry tuning="37.0"/>
+        <entry tuning="38.0"/>
+        <entry tuning="39.0"/>
+        <entry tuning="40.0"/>
+        <entry tuning="41.0"/>
+        <entry tuning="42.0"/>
+        <entry tuning="43.0"/>
+        <entry tuning="44.0"/>
+        <entry tuning="45.0"/>
+        <entry tuning="46.0"/>
+        <entry tuning="47.0"/>
+        <entry tuning="48.0"/>
+        <entry tuning="49.0"/>
+        <entry tuning="50.0"/>
+        <entry tuning="51.0"/>
+        <entry tuning="52.0"/>
+        <entry tuning="53.0"/>
+        <entry tuning="54.0"/>
+        <entry tuning="55.0"/>
+        <entry tuning="56.0"/>
+        <entry tuning="57.0"/>
+        <entry tuning="58.0"/>
+        <entry tuning="59.0"/>
+        <entry tuning="60.0"/>
+        <entry tuning="61.0"/>
+        <entry tuning="62.0"/>
+        <entry tuning="63.0"/>
+        <entry tuning="64.0"/>
+        <entry tuning="65.0"/>
+        <entry tuning="66.0"/>
+        <entry tuning="67.0"/>
+        <entry tuning="68.0"/>
+        <entry tuning="69.0"/>
+        <entry tuning="70.0"/>
+        <entry tuning="71.0"/>
+        <entry tuning="72.0"/>
+        <entry tuning="73.0"/>
+        <entry tuning="74.0"/>
+        <entry tuning="75.0"/>
+        <entry tuning="76.0"/>
+        <entry tuning="77.0"/>
+        <entry tuning="78.0"/>
+        <entry tuning="79.0"/>
+        <entry tuning="80.0"/>
+        <entry tuning="81.0"/>
+        <entry tuning="82.0"/>
+        <entry tuning="83.0"/>
+        <entry tuning="84.0"/>
+        <entry tuning="85.0"/>
+        <entry tuning="86.0"/>
+        <entry tuning="87.0"/>
+        <entry tuning="88.0"/>
+        <entry tuning="89.0"/>
+        <entry tuning="90.0"/>
+        <entry tuning="91.0"/>
+        <entry tuning="92.0"/>
+        <entry tuning="93.0"/>
+        <entry tuning="94.0"/>
+        <entry tuning="95.0"/>
+        <entry tuning="96.0"/>
+        <entry tuning="97.0"/>
+        <entry tuning="98.0"/>
+        <entry tuning="99.0"/>
+        <entry tuning="100.0"/>
+        <entry tuning="101.0"/>
+        <entry tuning="102.0"/>
+        <entry tuning="103.0"/>
+        <entry tuning="104.0"/>
+        <entry tuning="105.0"/>
+        <entry tuning="106.0"/>
+        <entry tuning="107.0"/>
+        <entry tuning="108.0"/>
+        <entry tuning="109.0"/>
+        <entry tuning="110.0"/>
+        <entry tuning="111.0"/>
+        <entry tuning="112.0"/>
+        <entry tuning="113.0"/>
+        <entry tuning="114.0"/>
+        <entry tuning="115.0"/>
+        <entry tuning="116.0"/>
+        <entry tuning="117.0"/>
+        <entry tuning="118.0"/>
+        <entry tuning="119.0"/>
+        <entry tuning="120.0"/>
+        <entry tuning="121.0"/>
+        <entry tuning="122.0"/>
+        <entry tuning="123.0"/>
+        <entry tuning="124.0"/>
+        <entry tuning="125.0"/>
+        <entry tuning="126.0"/>
+        <entry tuning="127.0"/>
+      </tuningtable>
+      <voicetunings>
+        <voicetuning cutoff="0.5472996830940247" detune="0.4771082997322083" attack="0.5501574873924255"
+                     decay="0.4533126950263977" release="0.5365391969680786"/>
+        <voicetuning cutoff="0.46305251121521" detune="0.4431937038898468" attack="0.4362240135669708"
+                     decay="0.5660504102706909" release="0.4477719068527222"/>
+        <voicetuning cutoff="0.4603987038135529" detune="0.5345852971076965" attack="0.4926804900169373"
+                     decay="0.4852150976657867" release="0.5059196949005127"/>
+        <voicetuning cutoff="0.5499241948127747" detune="0.4881604015827179" attack="0.5181381106376648"
+                     decay="0.4526421129703522" release="0.5224834084510803"/>
+        <voicetuning cutoff="0.5320484042167664" detune="0.5365393161773682" attack="0.5336524248123169"
+                     decay="0.5349938273429871" release="0.4736382961273193"/>
+        <voicetuning cutoff="0.4617111086845398" detune="0.5044031739234924" attack="0.4963842034339905"
+                     decay="0.4745419919490814" release="0.540038526058197"/>
+        <voicetuning cutoff="0.5279948711395264" detune="0.4759126901626587" attack="0.4989211857318878"
+                     decay="0.4754169881343842" release="0.4732007086277008"/>
+        <voicetuning cutoff="0.4600777924060822" detune="0.465501993894577" attack="0.5292779803276062"
+                     decay="0.5204132199287415" release="0.4945175051689148"/>
+      </voicetunings>
+      <midimap>
+        <map param="paramfiltercutoff2" controllernumber="21"/>
+        <map param="paramfilterresonance2" controllernumber="22"/>
+        <map param="paramfilterresonance2" controllernumber="71"/>
+        <map param="paramfiltercutoff2" controllernumber="74"/>
+      </midimap>
+    </program>
+  </programs>
+</tal>
