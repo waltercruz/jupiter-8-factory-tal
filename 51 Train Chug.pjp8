@@ -2,7 +2,7 @@
 
 <tal>
   <programs>
-    <program version="3" path="/Users/waltercruz/Library/Application Support/ToguAudioLine/TAL-J-8/presets/jupiter-8-factory-tal/51 Train Chug.pjp8"
+    <program version="3" path="/Users/waltercruz/Library/Application Support/ToguAudioLine/TAL-J-8/presets/jupiter-8-factoy/51 Train Chug.pjp8"
              programname="51 Train Chug" mastervolume="0.5" mastertune="0.5"
              masteroctave="0.5" numberofvoices="0.6363636255264282" keymode="0.8658970594406128"
              panelmodelowhigh="0.7202187776565552" balance="0.5" holdUpper="0.0"
@@ -11,11 +11,11 @@
              paramvcfpitchwheel="0.0" paramlfovcomodwheel="0.0" paramlfovcfmodwheel="0.0"
              assignmode1="0.635986328125" assignmode2="0.5569156408309937"
              pan1="0.5" pan2="0.5" finetune1="0.5" finetune2="0.5" vcotone1="0.0"
-             vcotone2="0.0" drivetone1="0.0" drivetone2="0.0" resonancetone1="0.0"
+             vcotone2="1.0" drivetone1="0.0" drivetone2="0.0" resonancetone1="0.0"
              resonancetone2="0.0" envtone1="0.0" envtone2="0.0" arprate1="0.7783778309822083"
              arprate2="0.4696559309959412" arpsync1="0.0" arpsync2="1.0" arprange1="0.0"
              arprange2="0.54730224609375" arpmode1="0.0" arpmode2="0.02066369913518429"
-             arpsyncmode="0.0" lforate1="0.1681782454252243" lforate2="0.7286062240600586"
+             arpsyncmode="0.0" lforate1="0.1681782454252243" lforate2="0.6351668834686279"
              lfosync1="0.0" lfosync2="0.0" lfodelay1="0.0" lfodelay2="0.6668153405189514"
              lfowaveform1="0.0" lfowaveform2="0.3375001549720764" lfotrigger1="0.0"
              lfotrigger2="0.0" vcomodulatorlfoamount1="0.5" vcomodulatorlfoamount2="0.5"
@@ -42,7 +42,7 @@
              paramfilterresonance1="1.0" paramfilterresonance2="0.0" paramfilterslope1="0.0"
              paramfilterslope2="0.0" paramfilterenvelope1="0.8888958692550659"
              paramfilterenvelope2="1.0" paramfilterenvelopesource1="0.6067315936088562"
-             paramfilterenvelopesource2="0.0" paramfilterlfo1="0.5" paramfilterlfo2="0.8644619584083557"
+             paramfilterenvelopesource2="0.0" paramfilterlfo1="0.5" paramfilterlfo2="0.1449801474809647"
              paramfilterkeyfollow1="0.5" paramfilterkeyfollow2="1.0" paramfiltervelocity1="0.0"
              paramfiltervelocity2="0.0" paramvcaamount1="0.5" paramvcaamount2="0.5795953869819641"
              paramvcalfoamount1="0.5" paramvcalfoamount2="0.5" paramvcavelocityamount1="0.0"
