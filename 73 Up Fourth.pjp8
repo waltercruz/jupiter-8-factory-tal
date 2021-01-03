@@ -2,9 +2,9 @@
 
 <tal>
   <programs>
-    <program version="3" path="/Users/waltercruz/Library/Application Support/ToguAudioLine/TAL-J-8/presets/jupiter-8-factory-tal/73 Up Fourth.pjp8"
+    <program version="3" path="/Users/waltercruz/Library/Application Support/ToguAudioLine/TAL-J-8/presets/jupiter-8-factoy/73 Up Fourth.pjp8"
              programname="73 Up Fourth" mastervolume="0.501757800579071" mastertune="0.5"
-             masteroctave="0.5" numberofvoices="0.1818181872367859" keymode="0.8658970594406128"
+             masteroctave="0.5" numberofvoices="0.6363636255264282" keymode="0.8658970594406128"
              panelmodelowhigh="0.7202187776565552" balance="0.5" holdUpper="0.0"
              holdLower="0.0" paramportamentoamount="0.0" paramportamentomode="0.0"
              paramportamentotimemode="0.0" paramvcopitchwheel="1.0" paramvcopitchwheeldest="0.4806475043296814"
@@ -188,29 +188,41 @@
       </tuningtable>
       <voicetunings>
         <voicetuning cutoff="0.5472996830940247" detune="0.4771082997322083" detunevco2="0.4871082901954651"
-                     attack="0.5501574873924255" decay="0.4533126950263977" release="0.5365391969680786"/>
+                     attack="0.5501574873924255" decay="0.4533126950263977" release="0.5365391969680786"
+                     pan="0.5"/>
         <voicetuning cutoff="0.46305251121521" detune="0.4431937038898468" detunevco2="0.4531936943531036"
-                     attack="0.4362240135669708" decay="0.5660504102706909" release="0.4477719068527222"/>
+                     attack="0.4362240135669708" decay="0.5660504102706909" release="0.4477719068527222"
+                     pan="0.5"/>
         <voicetuning cutoff="0.4603987038135529" detune="0.5345852971076965" detunevco2="0.5445852875709534"
-                     attack="0.4926804900169373" decay="0.4852150976657867" release="0.5059196949005127"/>
+                     attack="0.4926804900169373" decay="0.4852150976657867" release="0.5059196949005127"
+                     pan="0.5"/>
         <voicetuning cutoff="0.5499241948127747" detune="0.4881604015827179" detunevco2="0.4981603920459747"
-                     attack="0.5181381106376648" decay="0.4526421129703522" release="0.5224834084510803"/>
+                     attack="0.5181381106376648" decay="0.4526421129703522" release="0.5224834084510803"
+                     pan="0.5"/>
         <voicetuning cutoff="0.5320484042167664" detune="0.5365393161773682" detunevco2="0.546539306640625"
-                     attack="0.5336524248123169" decay="0.5349938273429871" release="0.4736382961273193"/>
+                     attack="0.5336524248123169" decay="0.5349938273429871" release="0.4736382961273193"
+                     pan="0.5"/>
         <voicetuning cutoff="0.4617111086845398" detune="0.5044031739234924" detunevco2="0.5144031643867493"
-                     attack="0.4963842034339905" decay="0.4745419919490814" release="0.540038526058197"/>
+                     attack="0.4963842034339905" decay="0.4745419919490814" release="0.540038526058197"
+                     pan="0.5"/>
         <voicetuning cutoff="0.5279948711395264" detune="0.4759126901626587" detunevco2="0.4859126806259155"
-                     attack="0.4989211857318878" decay="0.4754169881343842" release="0.4732007086277008"/>
+                     attack="0.4989211857318878" decay="0.4754169881343842" release="0.4732007086277008"
+                     pan="0.5"/>
         <voicetuning cutoff="0.4600777924060822" detune="0.465501993894577" detunevco2="0.4755019843578339"
-                     attack="0.5292779803276062" decay="0.5204132199287415" release="0.4945175051689148"/>
+                     attack="0.5292779803276062" decay="0.5204132199287415" release="0.4945175051689148"
+                     pan="0.5"/>
         <voicetuning cutoff="0.5472996830940247" detune="0.4771082997322083" detunevco2="0.4871082901954651"
-                     attack="0.5501574873924255" decay="0.4533126950263977" release="0.5365391969680786"/>
+                     attack="0.5501574873924255" decay="0.4533126950263977" release="0.5365391969680786"
+                     pan="0.5"/>
         <voicetuning cutoff="0.46305251121521" detune="0.4431937038898468" detunevco2="0.4531936943531036"
-                     attack="0.4362240135669708" decay="0.5660504102706909" release="0.4477719068527222"/>
+                     attack="0.4362240135669708" decay="0.5660504102706909" release="0.4477719068527222"
+                     pan="0.5"/>
         <voicetuning cutoff="0.4603987038135529" detune="0.5345852971076965" detunevco2="0.5445852875709534"
-                     attack="0.4926804900169373" decay="0.4852150976657867" release="0.5059196949005127"/>
+                     attack="0.4926804900169373" decay="0.4852150976657867" release="0.5059196949005127"
+                     pan="0.5"/>
         <voicetuning cutoff="0.5499241948127747" detune="0.4881604015827179" detunevco2="0.4981603920459747"
-                     attack="0.5181381106376648" decay="0.4526421129703522" release="0.5224834084510803"/>
+                     attack="0.5181381106376648" decay="0.4526421129703522" release="0.5224834084510803"
+                     pan="0.5"/>
       </voicetunings>
       <midimap>
         <map param="paramfiltercutoff2" controllernumber="21"/>

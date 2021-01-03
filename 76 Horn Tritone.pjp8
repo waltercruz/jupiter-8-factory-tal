@@ -2,9 +2,9 @@
 
 <tal>
   <programs>
-    <program version="3" path="/Users/waltercruz/Library/Application Support/ToguAudioLine/TAL-J-8/presets/jupiter-8-factory-tal/76 Horn Tritone.pjp8"
+    <program version="3" path="/Users/waltercruz/Library/Application Support/ToguAudioLine/TAL-J-8/presets/jupiter-8-factoy/76 Horn Tritone.pjp8"
              programname="76 Horn Tritone" mastervolume="0.5" mastertune="0.5"
-             masteroctave="0.5" numberofvoices="0.1818181872367859" keymode="0.8748604655265808"
+             masteroctave="0.5" numberofvoices="0.6363636255264282" keymode="0.0904507115483284"
              panelmodelowhigh="0.7283204197883606" balance="0.5" holdUpper="0.0"
              holdLower="0.0" paramportamentoamount="0.0" paramportamentomode="0.0"
              paramportamentotimemode="0.0" paramvcopitchwheel="0.2083333283662796"
