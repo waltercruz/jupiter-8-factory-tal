@@ -33,7 +33,7 @@
              paramsustainenv21="1.0" paramsustainenv22="0.999707043170929"
              paramreleaseenv21="0.6614382863044739" paramreleaseenv22="0.0"
              paramkeyfollowenv21="0.0" paramkeyfollowenv22="0.5560488700866699"
-             vcomix1="0.5" vcomix2="1.0" vco1crossamount1="0.0" vco1crossamount2="0.002343749860301614"
+             vcomix1="0.5" vcomix2="0.5" vco1crossamount1="0.0" vco1crossamount2="0.002343749860301614"
              vco1range1="0.6895027160644531" vco1range2="0.0" vco1wave1="0.2000000029802322"
              vco1wave2="0.6720520257949829" vco2range1="0.3477431535720825"
              vco2range2="0.0" vco2wave1="0.2000000029802322" vco2wave2="0.5884976387023926"
@@ -56,8 +56,7 @@
              chorusOne="0.0" chorusTwo="0.0" delayDryWet="0.0" delayTime="0.2949597239494324"
              delaySync="0.0" delaySpread="0.7659985423088074" delayLowCut="0.815350353717804"
              delayHighCut="0.1556982398033142" delayFeedback="0.3986400067806244"
-             engineoff="0.0" mpeEnabled="0.0" pitchwheel="0.500030517578125"
-             modulationwheel="0.0">
+             engineoff="0.0" mpeEnabled="0.0" pitchwheel="0.5" modulationwheel="0.0">
       <tuningtable name="No Microtuning">
         <entry tuning="0.0"/>
         <entry tuning="1.0"/>
