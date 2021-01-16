@@ -224,12 +224,7 @@
                      attack="0.5880429744720459" decay="0.4383125603199005" release="0.5191155076026917"
                      pan="0.5"/>
       </voicetunings>
-      <midimap>
-        <map param="paramfiltercutoff2" controllernumber="21"/>
-        <map param="paramfilterresonance2" controllernumber="22"/>
-        <map param="paramfilterresonance2" controllernumber="71"/>
-        <map param="paramfiltercutoff2" controllernumber="74"/>
-      </midimap>
+      <midimap/>
     </program>
   </programs>
 </tal>

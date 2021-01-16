@@ -212,12 +212,7 @@
         <voicetuning cutoff="0.5411890149116516" detune="0.4876718819141388" detunevco2="0.6206532716751099"
                      attack="0.4707832336425781" decay="0.4728761613368988" release="0.4894025921821594"/>
       </voicetunings>
-      <midimap>
-        <map param="paramfiltercutoff2" controllernumber="21"/>
-        <map param="paramfilterresonance2" controllernumber="22"/>
-        <map param="paramfilterresonance2" controllernumber="71"/>
-        <map param="paramfiltercutoff2" controllernumber="74"/>
-      </midimap>
+      <midimap/>
     </program>
   </programs>
 </tal>
