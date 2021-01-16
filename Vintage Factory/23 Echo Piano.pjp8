@@ -3,7 +3,7 @@
 <tal>
   <programs>
     <program version="4" path="/Users/waltercruz/Library/Application Support/ToguAudioLine/TAL-J-8/presets/Vintage Factory/23 Echo Piano.pjp8"
-             programname="23 Echo Piano" mastervolume="0.9247109293937683"
+             programname="23 Echo Piano" mastervolume="0.7901096940040588"
              mastertune="0.5" masteroctave="0.5" numberofvoices="0.6363636255264282"
              keymode="0.8658970594406128" panelmodelowhigh="0.6787594556808472"
              balance="0.5" holdUpper="0.0" holdLower="0.0" paramportamentoamount="0.0"
@@ -42,7 +42,7 @@
              paramfiltercutoff2="0.3363824784755707" paramfilterresonance1="1.0"
              paramfilterresonance2="0.4933145344257355" paramfilterslope1="0.0"
              paramfilterslope2="0.0" paramfilterenvelope1="0.8888958692550659"
-             paramfilterenvelope2="0.7088219523429871" paramfilterenvelopesource1="0.6067315936088562"
+             paramfilterenvelope2="0.7250112295150757" paramfilterenvelopesource1="0.6067315936088562"
              paramfilterenvelopesource2="0.0" paramfilterlfo1="0.5" paramfilterlfo2="0.5"
              paramfilterkeyfollow1="0.5" paramfilterkeyfollow2="0.7484768629074097"
              paramfiltervelocity1="0.0" paramfiltervelocity2="0.0" paramvcaamount1="0.5"
