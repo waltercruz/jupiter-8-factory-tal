@@ -2,27 +2,28 @@
 
 <tal>
   <programs>
-    <program version="3" path="/Users/waltercruz/Library/Application Support/ToguAudioLine/TAL-J-8/presets/jupiter-8-factoy/31 Lo Strings.pjp8"
+    <program version="5" path="/Users/waltercruz/Library/Application Support/ToguAudioLine/TAL-J-8/presets/Vintage Factory/31 Lo Strings.pjp8"
              programname="31 Lo Strings" mastervolume="0.5026594400405884"
              mastertune="0.5" masteroctave="0.5" numberofvoices="0.6363636255264282"
              keymode="0.8693189024925232" panelmodelowhigh="0.8777543902397156"
              balance="0.5" holdUpper="0.0" holdLower="0.0" paramportamentoamount="0.0"
              paramportamentomode="0.0" paramportamentotimemode="0.0" paramvcopitchwheel="1.0"
              paramvcopitchwheeldest="0.4806475043296814" paramvcfpitchwheel="0.0"
-             paramlfovcomodwheel="1.0" paramlfovcfmodwheel="0.0" assignmode1="0.6164280772209167"
-             assignmode2="0.6164280772209167" pan1="0.5" pan2="0.5" finetune1="0.5"
-             finetune2="0.5" vcotone1="0.0" vcotone2="0.4934396743774414"
-             drivetone1="0.0" drivetone2="0.0" resonancetone1="0.0" resonancetone2="0.0"
-             envtone1="0.0" envtone2="0.0" arprate1="0.5312852263450623" arprate2="0.5312852263450623"
-             arpsync1="0.0" arpsync2="0.0" arprange1="0.54730224609375" arprange2="0.54730224609375"
+             paramlfovcomodwheel="0.1666666716337204" paramlfovcfmodwheel="0.0"
+             assignmode1="0.6164280772209167" assignmode2="0.6164280772209167"
+             pan1="0.5" pan2="0.5" finetune1="0.5" finetune2="0.5" vcotone1="0.0"
+             vcotone2="0.4934396743774414" drivetone1="0.0" drivetone2="0.0"
+             resonancetone1="0.0" resonancetone2="0.0" envtone1="0.0" envtone2="0.0"
+             arprate1="0.5312852263450623" arprate2="0.5312852263450623" arpsync1="0.0"
+             arpsync2="0.0" arprange1="0.54730224609375" arprange2="0.54730224609375"
              arpmode1="0.02066369913518429" arpmode2="0.02066369913518429"
              arpsyncmode="0.3333333432674408" lforate1="0.6962102055549622"
-             lforate2="0.5551719665527344" lfosync1="0.0" lfosync2="0.0" lfodelay1="0.3923878371715546"
+             lforate2="0.5516588091850281" lfosync1="0.0" lfosync2="0.0" lfodelay1="0.3923878371715546"
              lfodelay2="0.0" lfowaveform1="1.0" lfowaveform2="0.0" lfotrigger1="0.0"
              lfotrigger2="0.0" vcomodulatorlfoamount1="0.5" vcomodulatorlfoamount2="0.5299456715583801"
              vcomodulatorenvamount1="0.5" vcomodulatorenvamount2="0.5" vcomodulatorvcodestination1="0.5428590774536133"
              vcomodulatorvcodestination2="0.5428590774536133" vcomodulatorpwmamount1="0.4305627346038818"
-             vcomodulatorpwmamount2="0.5759208202362061" vcomodulatorpwmsource1="0.9304269552230835"
+             vcomodulatorpwmamount2="0.4471685290336609" vcomodulatorpwmsource1="0.9304269552230835"
              vcomodulatorpwmsource2="1.0" vcomodulatorpwmsourceinv1="0.0"
              vcomodulatorpwmsourceinv2="1.0" paramattackenv11="0.3212985098361969"
              paramattackenv12="0.5002294778823853" paramdecayenv11="0.610298752784729"
@@ -38,7 +39,7 @@
              vco1range2="0.0" vco1wave1="0.2606019675731659" vco1wave2="0.2940124571323395"
              vco2range1="0.0" vco2range2="0.0" vco2wave1="0.3355829417705536"
              vco2wave2="0.6144987940788269" vco2finetune1="0.5692959427833557"
-             vco2finetune2="0.5217044949531555" vco2sync1="1.0" vco2sync2="1.0"
+             vco2finetune2="0.6256558895111084" vco2sync1="0.5" vco2sync2="0.5"
              vco2lowfreq1="1.0" vco2lowfreq2="1.0" paramhpcutoff1="0.0" paramhpcutoff2="0.0"
              paramfiltercutoff1="0.3802002370357513" paramfiltercutoff2="0.4374499320983887"
              paramfilterresonance1="0.6245648264884949" paramfilterresonance2="0.0"
@@ -55,7 +56,8 @@
              chorusOne="0.0" chorusTwo="0.0" delayDryWet="0.0" delayTime="0.2949597239494324"
              delaySync="0.0" delaySpread="0.7659985423088074" delayLowCut="0.815350353717804"
              delayHighCut="0.1556982398033142" delayFeedback="0.3986400067806244"
-             engineoff="0.0" mpeEnabled="0.0" pitchwheel="0.5" modulationwheel="0.0">
+             engineoff="0.0" mpeEnabled="0.0" pitchwheel="0.5" modulationwheel="0.0"
+             lowcpumode="0.0">
       <tuningtable name="No Microtuning">
         <entry tuning="0.0"/>
         <entry tuning="1.0"/>
@@ -187,41 +189,41 @@
         <entry tuning="127.0"/>
       </tuningtable>
       <voicetunings>
-        <voicetuning cutoff="0.4993667006492615" detune="0.4563373923301697" detunevco2="0.4623388946056366"
-                     attack="0.5297504663467407" decay="0.5161624550819397" release="0.542684018611908"
+        <voicetuning cutoff="0.5822921991348267" detune="0.3165014088153839" detunevco2="0.3194237947463989"
+                     attack="0.3134458363056183" decay="0.6956589221954346" release="0.307047963142395"
                      pan="0.5"/>
-        <voicetuning cutoff="0.4900530576705933" detune="0.521586000919342" detunevco2="0.4961093664169312"
-                     attack="0.5101205706596375" decay="0.5961893200874329" release="0.5539167523384094"
+        <voicetuning cutoff="0.5416547656059265" detune="0.6981806755065918" detunevco2="0.5233790278434753"
+                     attack="0.4468396604061127" decay="0.3768733441829681" release="0.3615544736385345"
                      pan="0.5"/>
-        <voicetuning cutoff="0.4791050851345062" detune="0.5189034938812256" detunevco2="0.4112714529037476"
-                     attack="0.4396111369132996" decay="0.5444191098213196" release="0.451964259147644"
+        <voicetuning cutoff="0.6846190690994263" detune="0.3848440647125244" detunevco2="0.4329134523868561"
+                     attack="0.6312766671180725" decay="0.6795884370803833" release="0.605061411857605"
                      pan="0.5"/>
-        <voicetuning cutoff="0.5630565881729126" detune="0.4920724332332611" detunevco2="0.4614517986774445"
-                     attack="0.4206297397613525" decay="0.5238938927650452" release="0.4846191108226776"
+        <voicetuning cutoff="0.4476089775562286" detune="0.7000979781150818" detunevco2="0.5782625079154968"
+                     attack="0.404923677444458" decay="0.5707355141639709" release="0.4017190933227539"
                      pan="0.5"/>
-        <voicetuning cutoff="0.5933007597923279" detune="0.4061640501022339" detunevco2="0.5991666316986084"
-                     attack="0.5936744213104248" decay="0.4862070977687836" release="0.4826662540435791"
+        <voicetuning cutoff="0.6163662672042847" detune="0.4776960015296936" detunevco2="0.3623174428939819"
+                     attack="0.4663676917552948" decay="0.3736500442028046" release="0.5273329615592957"
                      pan="0.5"/>
-        <voicetuning cutoff="0.5719155073165894" detune="0.5837152600288391" detunevco2="0.5020777583122253"
-                     attack="0.4211680591106415" decay="0.5717026591300964" release="0.4070519804954529"
+        <voicetuning cutoff="0.390063464641571" detune="0.3427262306213379" detunevco2="0.7117378711700439"
+                     attack="0.5878332853317261" decay="0.4156427085399628" release="0.3179684281349182"
                      pan="0.5"/>
-        <voicetuning cutoff="0.5224359035491943" detune="0.5799564123153687" detunevco2="0.5275734663009644"
-                     attack="0.5271270275115967" decay="0.4239492416381836" release="0.5150750279426575"
+        <voicetuning cutoff="0.6312694549560547" detune="0.5581960678100586" detunevco2="0.4884351789951324"
+                     attack="0.4485236704349518" decay="0.423310786485672" release="0.519562304019928"
                      pan="0.5"/>
-        <voicetuning cutoff="0.4657810926437378" detune="0.582785427570343" detunevco2="0.4749956727027893"
-                     attack="0.4520588219165802" decay="0.5526798367500305" release="0.4900675415992737"
+        <voicetuning cutoff="0.6380326151847839" detune="0.3308125138282776" detunevco2="0.4481912553310394"
+                     attack="0.4877943992614746" decay="0.5461520552635193" release="0.6430901885032654"
                      pan="0.5"/>
-        <voicetuning cutoff="0.5651692152023315" detune="0.5993048548698425" detunevco2="0.5168053507804871"
-                     attack="0.5477052330970764" decay="0.4817536473274231" release="0.4334448277950287"
+        <voicetuning cutoff="0.5636767148971558" detune="0.4416617751121521" detunevco2="0.2956708967685699"
+                     attack="0.6025797724723816" decay="0.4718813300132751" release="0.4465503394603729"
                      pan="0.5"/>
-        <voicetuning cutoff="0.5073118209838867" detune="0.5894004702568054" detunevco2="0.4533685445785522"
-                     attack="0.5652965903282166" decay="0.5405228137969971" release="0.5665709972381592"
+        <voicetuning cutoff="0.2960149049758911" detune="0.2980870604515076" detunevco2="0.3479487895965576"
+                     attack="0.674928605556488" decay="0.5362963080406189" release="0.6246679425239563"
                      pan="0.5"/>
-        <voicetuning cutoff="0.5589256286621094" detune="0.4630765914916992" detunevco2="0.5284819006919861"
-                     attack="0.5948911309242249" decay="0.5353595018386841" release="0.5870295166969299"
+        <voicetuning cutoff="0.4597689509391785" detune="0.3213030695915222" detunevco2="0.5983397960662842"
+                     attack="0.5044432282447815" decay="0.4053339064121246" release="0.5103329420089722"
                      pan="0.5"/>
-        <voicetuning cutoff="0.4048287570476532" detune="0.5568618178367615" detunevco2="0.5766518712043762"
-                     attack="0.5880429744720459" decay="0.4383125603199005" release="0.5191155076026917"
+        <voicetuning cutoff="0.7136689424514771" detune="0.4386762380599976" detunevco2="0.5448198318481445"
+                     attack="0.4233440756797791" decay="0.6443053483963013" release="0.5557870864868164"
                      pan="0.5"/>
       </voicetunings>
       <midimap/>
