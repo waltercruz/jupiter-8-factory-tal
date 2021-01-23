@@ -5,7 +5,6 @@ TAL J-8 includes some (24), but not all of the original JP-8 factory patches (64
 
 Right now, the following patches are missing:
 
- - 63 Klingons
  - 64 Music of the Spheres
  - 66 Solar Winds
  - 68 Handclaps
