@@ -5,7 +5,6 @@ TAL J-8 includes some (24), but not all of the original JP-8 factory patches (64
 
 Right now, the following patches are missing:
 
- - 53 Jungle Beasts
  - 54 Birds
  - 58 Gong
  - 62 Poly Rhythms
