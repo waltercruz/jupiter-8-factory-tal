@@ -40,7 +40,7 @@
              vco2finetune1="0.5" vco2finetune2="0.5351054072380066" vco2sync1="0.5"
              vco2sync2="0.5" vco2lowfreq1="1.0" vco2lowfreq2="1.0" paramhpcutoff1="0.0"
              paramhpcutoff2="0.0" paramfiltercutoff1="0.4318200647830963"
-             paramfiltercutoff2="0.8633529543876648" paramfilterresonance1="1.0"
+             paramfiltercutoff2="0.8168749809265137" paramfilterresonance1="1.0"
              paramfilterresonance2="0.0" paramfilterslope1="0.0" paramfilterslope2="0.0"
              paramfilterenvelope1="0.8888958692550659" paramfilterenvelope2="0.2460626214742661"
              paramfilterenvelopesource1="0.6067315936088562" paramfilterenvelopesource2="1.0"
@@ -54,8 +54,8 @@
              chorusOne="0.0" chorusTwo="0.0" delayDryWet="0.0" delayTime="0.2949597239494324"
              delaySync="0.0" delaySpread="0.7659985423088074" delayLowCut="0.815350353717804"
              delayHighCut="0.1556982398033142" delayFeedback="0.3986400067806244"
-             engineoff="0.0" mpeEnabled="0.0" pitchwheel="0.500030517578125"
-             modulationwheel="0.0" lowcpumode="0.0">
+             engineoff="0.0" mpeEnabled="0.0" pitchwheel="0.5" modulationwheel="0.0"
+             lowcpumode="0.0">
       <tuningtable name="No Microtuning">
         <entry tuning="0.0"/>
         <entry tuning="1.0"/>
