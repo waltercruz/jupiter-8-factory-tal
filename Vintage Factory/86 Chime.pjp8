@@ -3,8 +3,8 @@
 <tal>
   <programs>
     <program version="5" path="/Users/waltercruz/Library/Application Support/ToguAudioLine/TAL-J-8/presets/Vintage Factory/86 Chime.pjp8"
-             programname="86 Chime" mastervolume="0.8445478677749634" mastertune="0.5"
-             masteroctave="0.5" numberofvoices="0.6363636255264282" keymode="0.8658970594406128"
+             programname="86 Chime" mastervolume="0.5" mastertune="0.5" masteroctave="0.5"
+             numberofvoices="0.6363636255264282" keymode="0.8658970594406128"
              panelmodelowhigh="0.7202187776565552" balance="0.5" holdUpper="0.0"
              holdLower="0.0" paramportamentoamount="0.0" paramportamentomode="0.0"
              paramportamentotimemode="0.0" paramvcopitchwheel="1.0" paramvcopitchwheeldest="0.4806475043296814"
@@ -40,7 +40,7 @@
              vco2finetune1="0.5" vco2finetune2="0.4005107879638672" vco2sync1="0.5"
              vco2sync2="0.5" vco2lowfreq1="1.0" vco2lowfreq2="1.0" paramhpcutoff1="0.0"
              paramhpcutoff2="0.0" paramfiltercutoff1="0.4318200647830963"
-             paramfiltercutoff2="0.0" paramfilterresonance1="1.0" paramfilterresonance2="0.5149548053741455"
+             paramfiltercutoff2="0.0" paramfilterresonance1="1.0" paramfilterresonance2="0.4794909358024597"
              paramfilterslope1="0.0" paramfilterslope2="0.0" paramfilterenvelope1="0.8888958692550659"
              paramfilterenvelope2="1.0" paramfilterenvelopesource1="0.6067315936088562"
              paramfilterenvelopesource2="1.0" paramfilterlfo1="0.5" paramfilterlfo2="0.5"
