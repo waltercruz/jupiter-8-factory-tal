@@ -40,7 +40,7 @@
              vco2finetune1="0.5" vco2finetune2="0.5805038809776306" vco2sync1="0.5"
              vco2sync2="0.5" vco2lowfreq1="1.0" vco2lowfreq2="1.0" paramhpcutoff1="0.0"
              paramhpcutoff2="0.0" paramfiltercutoff1="0.4318200647830963"
-             paramfiltercutoff2="0.3314701318740845" paramfilterresonance1="1.0"
+             paramfiltercutoff2="0.3547945320606232" paramfilterresonance1="1.0"
              paramfilterresonance2="0.0" paramfilterslope1="0.0" paramfilterslope2="0.0"
              paramfilterenvelope1="0.8888958692550659" paramfilterenvelope2="0.8785299062728882"
              paramfilterenvelopesource1="0.6067315936088562" paramfilterenvelopesource2="0.0"
@@ -55,8 +55,8 @@
              delayDryWet="0.0" delayTime="0.2949597239494324" delaySync="0.0"
              delaySpread="0.7659985423088074" delayLowCut="0.815350353717804"
              delayHighCut="0.1556982398033142" delayFeedback="0.3986400067806244"
-             engineoff="0.0" mpeEnabled="0.0" pitchwheel="0.500030517578125"
-             modulationwheel="0.0" lowcpumode="0.0">
+             engineoff="0.0" mpeEnabled="0.0" pitchwheel="0.5" modulationwheel="0.0"
+             lowcpumode="0.0">
       <tuningtable name="No Microtuning">
         <entry tuning="0.0"/>
         <entry tuning="1.0"/>
@@ -225,7 +225,12 @@
                      attack="0.6736565232276917" decay="0.6214094161987305" release="0.612432062625885"
                      pan="0.5"/>
       </voicetunings>
-      <midimap/>
+      <midimap>
+        <map param="paramfiltercutoff2" controllernumber="21"/>
+        <map param="paramfilterresonance2" controllernumber="22"/>
+        <map param="paramfilterresonance2" controllernumber="71"/>
+        <map param="paramfiltercutoff2" controllernumber="74"/>
+      </midimap>
     </program>
   </programs>
 </tal>
