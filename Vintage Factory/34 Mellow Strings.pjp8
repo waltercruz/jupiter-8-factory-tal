@@ -2,7 +2,7 @@
 
 <tal>
   <programs>
-    <program version="5" path="/Users/waltercruz/devel/jupiter-8-factory-tal/Vintage Factory/34 Mellow Strings.pjp8"
+    <program version="5" path="/Users/waltercruz/Library/Application Support/ToguAudioLine/TAL-J-8/presets/Vintage Factory/34 Mellow Strings.pjp8"
              programname="34 Mellow Strings" mastervolume="0.7201141715049744"
              mastertune="0.5" masteroctave="0.5" numberofvoices="0.6363636255264282"
              keymode="0.8658970594406128" panelmodelowhigh="0.7202187776565552"
@@ -32,15 +32,15 @@
              paramdecayenv21="0.0" paramdecayenv22="0.7275891304016113" paramsustainenv21="1.0"
              paramsustainenv22="0.5838800072669983" paramreleaseenv21="0.6614382863044739"
              paramreleaseenv22="0.4546926915645599" paramkeyfollowenv21="0.0"
-             paramkeyfollowenv22="1.0" vcomix1="0.5" vcomix2="1.0" vco1crossamount1="0.0"
+             paramkeyfollowenv22="1.0" vcomix1="0.5" vcomix2="0.5" vco1crossamount1="0.0"
              vco1crossamount2="0.0" vco1range1="0.6895027160644531" vco1range2="0.3493873775005341"
              vco1wave1="0.2000000029802322" vco1wave2="0.6282413005828857"
              vco2range1="0.3477431535720825" vco2range2="0.3531119525432587"
              vco2wave1="0.2000000029802322" vco2wave2="0.6144987940788269"
-             vco2finetune1="0.5" vco2finetune2="0.6689850687980652" vco2sync1="0.5"
+             vco2finetune1="0.5" vco2finetune2="0.5859416723251343" vco2sync1="0.5"
              vco2sync2="0.5" vco2lowfreq1="1.0" vco2lowfreq2="1.0" paramhpcutoff1="0.0"
              paramhpcutoff2="0.0" paramfiltercutoff1="0.4318200647830963"
-             paramfiltercutoff2="0.5516800284385681" paramfilterresonance1="1.0"
+             paramfiltercutoff2="0.5717617869377136" paramfilterresonance1="1.0"
              paramfilterresonance2="0.0" paramfilterslope1="0.0" paramfilterslope2="1.0"
              paramfilterenvelope1="0.8888958692550659" paramfilterenvelope2="0.5"
              paramfilterenvelopesource1="0.6067315936088562" paramfilterenvelopesource2="0.0"
@@ -55,8 +55,8 @@
              delayDryWet="0.0" delayTime="0.2949597239494324" delaySync="0.0"
              delaySpread="0.7659985423088074" delayLowCut="0.815350353717804"
              delayHighCut="0.1556982398033142" delayFeedback="0.3986400067806244"
-             engineoff="0.0" mpeEnabled="0.0" pitchwheel="0.500030517578125"
-             modulationwheel="0.0" lowcpumode="0.0">
+             engineoff="0.0" mpeEnabled="0.0" pitchwheel="0.5" modulationwheel="0.0"
+             lowcpumode="0.0">
       <tuningtable name="No Microtuning">
         <entry tuning="0.0"/>
         <entry tuning="1.0"/>
