@@ -2,14 +2,14 @@
 
 <tal>
   <programs>
-    <program version="5" path="/Users/waltercruz/devel/jupiter-8-factoy/Vintage Factory/27 Sitar.pjp8"
+    <program version="5" path="/Users/waltercruz/Library/Application Support/ToguAudioLine/TAL-J-8/presets/Vintage Factory/27 Sitar.pjp8"
              programname="27 Sitar" mastervolume="0.5" mastertune="0.5" masteroctave="0.5"
              numberofvoices="0.6363636255264282" keymode="0.8658970594406128"
              panelmodelowhigh="0.7202187776565552" balance="0.492382824420929"
              holdUpper="0.0" holdLower="0.0" paramportamentoamount="0.0" paramportamentomode="0.0"
              paramportamentotimemode="0.0" paramvcopitchwheel="0.0833333358168602"
              paramvcopitchwheeldest="0.4806475043296814" paramvcfpitchwheel="0.0"
-             paramlfovcomodwheel="0.1666666716337204" paramlfovcfmodwheel="0.0"
+             paramlfovcomodwheel="0.0" paramlfovcfmodwheel="0.09073486179113388"
              assignmode1="0.635986328125" assignmode2="0.5420082211494446"
              pan1="0.5" pan2="0.5" finetune1="0.5" finetune2="0.5" vcotone1="0.0"
              vcotone2="0.4547730684280396" drivetone1="0.0" drivetone2="0.0"
@@ -56,8 +56,8 @@
              delayDryWet="0.0" delayTime="0.2949597239494324" delaySync="0.0"
              delaySpread="0.7659985423088074" delayLowCut="0.815350353717804"
              delayHighCut="0.1556982398033142" delayFeedback="0.3986400067806244"
-             engineoff="0.0" mpeEnabled="0.0" pitchwheel="0.5" modulationwheel="0.0"
-             lowcpumode="0.0">
+             engineoff="0.0" mpeEnabled="0.0" pitchwheel="0.500030517578125"
+             modulationwheel="0.0" lowcpumode="0.0">
       <tuningtable name="No Microtuning">
         <entry tuning="0.0"/>
         <entry tuning="1.0"/>

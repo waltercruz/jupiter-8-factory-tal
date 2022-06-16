@@ -7,7 +7,7 @@
              mastertune="0.5" masteroctave="0.5" numberofvoices="0.6363636255264282"
              keymode="0.8693189024925232" panelmodelowhigh="0.8777543902397156"
              balance="0.5" holdUpper="0.0" holdLower="0.0" paramportamentoamount="0.0"
-             paramportamentomode="0.0" paramportamentotimemode="0.0" paramvcopitchwheel="1.0"
+             paramportamentomode="0.0" paramportamentotimemode="0.0" paramvcopitchwheel="0.08274739235639572"
              paramvcopitchwheeldest="0.4806475043296814" paramvcfpitchwheel="0.0"
              paramlfovcomodwheel="0.1666666716337204" paramlfovcfmodwheel="0.0"
              assignmode1="0.6164280772209167" assignmode2="0.6164280772209167"
@@ -56,8 +56,8 @@
              chorusOne="0.0" chorusTwo="0.0" delayDryWet="0.0" delayTime="0.2949597239494324"
              delaySync="0.0" delaySpread="0.7659985423088074" delayLowCut="0.815350353717804"
              delayHighCut="0.1556982398033142" delayFeedback="0.3986400067806244"
-             engineoff="0.0" mpeEnabled="0.0" pitchwheel="0.5" modulationwheel="0.0"
-             lowcpumode="0.0">
+             engineoff="0.0" mpeEnabled="0.0" pitchwheel="0.500030517578125"
+             modulationwheel="0.0" lowcpumode="0.0">
       <tuningtable name="No Microtuning">
         <entry tuning="0.0"/>
         <entry tuning="1.0"/>

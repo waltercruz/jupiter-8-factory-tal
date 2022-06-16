@@ -2,7 +2,7 @@
 
 <tal>
   <programs>
-    <program version="4" path="/Users/waltercruz/Library/Application Support/ToguAudioLine/TAL-J-8/presets/Vintage Factory/23 Echo Piano.pjp8"
+    <program version="5" path="/Users/waltercruz/Library/Application Support/ToguAudioLine/TAL-J-8/presets/Vintage Factory/23 Echo Piano.pjp8"
              programname="23 Echo Piano" mastervolume="0.7901096940040588"
              mastertune="0.5" masteroctave="0.5" numberofvoices="0.6363636255264282"
              keymode="0.8658970594406128" panelmodelowhigh="0.6787594556808472"
@@ -39,8 +39,8 @@
              vco2wave2="0.2834253311157227" vco2finetune1="0.5" vco2finetune2="0.5379301309585571"
              vco2sync1="0.5" vco2sync2="0.5" vco2lowfreq1="1.0" vco2lowfreq2="1.0"
              paramhpcutoff1="0.0" paramhpcutoff2="0.0" paramfiltercutoff1="0.4318200647830963"
-             paramfiltercutoff2="0.3363824784755707" paramfilterresonance1="1.0"
-             paramfilterresonance2="0.4933145344257355" paramfilterslope1="0.0"
+             paramfiltercutoff2="0.3087994754314423" paramfilterresonance1="1.0"
+             paramfilterresonance2="0.4501120150089264" paramfilterslope1="0.0"
              paramfilterslope2="0.0" paramfilterenvelope1="0.8888958692550659"
              paramfilterenvelope2="0.7250112295150757" paramfilterenvelopesource1="0.6067315936088562"
              paramfilterenvelopesource2="0.0" paramfilterlfo1="0.5" paramfilterlfo2="0.5"
@@ -54,7 +54,8 @@
              chorusOne="0.0" chorusTwo="0.0" delayDryWet="0.0" delayTime="0.2949597239494324"
              delaySync="0.0" delaySpread="0.7659985423088074" delayLowCut="0.815350353717804"
              delayHighCut="0.1556982398033142" delayFeedback="0.3986400067806244"
-             engineoff="0.0" mpeEnabled="0.0" pitchwheel="0.5" modulationwheel="0.0">
+             engineoff="0.0" mpeEnabled="0.0" pitchwheel="0.5" modulationwheel="0.0"
+             lowcpumode="0.0">
       <tuningtable name="No Microtuning">
         <entry tuning="0.0"/>
         <entry tuning="1.0"/>

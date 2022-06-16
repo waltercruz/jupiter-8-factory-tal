@@ -2,12 +2,12 @@
 
 <tal>
   <programs>
-    <program version="5" path="/Users/waltercruz/Library/Application Support/ToguAudioLine/TAL-J-8/presets/jupiter-8-factory-tal/Vintage Factory/11 Neg Sync.pjp8"
+    <program version="5" path="/Users/waltercruz/Library/Application Support/ToguAudioLine/TAL-J-8/presets/Vintage Factory/11 Neg Sync.pjp8"
              programname="11 Neg Sync" mastervolume="0.7009511590003967" mastertune="0.5"
-             masteroctave="0.5" numberofvoices="0.6363636255264282" voicemode="0.0"
-             keymode="0.8658970594406128" panelmodelowhigh="0.7202187776565552"
-             balance="0.5" holdUpper="0.0" holdLower="0.0" paramportamentoamount="0.0"
-             paramportamentomode="0.0" paramportamentotimemode="0.0" paramvcopitchwheel="0.0833333358168602"
+             masteroctave="0.5" numberofvoices="0.6363636255264282" keymode="0.8658970594406128"
+             panelmodelowhigh="0.7202187776565552" balance="0.5" holdUpper="0.0"
+             holdLower="0.0" paramportamentoamount="0.0" paramportamentomode="0.0"
+             paramportamentotimemode="0.0" paramvcopitchwheel="0.0833333358168602"
              paramvcopitchwheeldest="0.4806475043296814" paramvcfpitchwheel="0.0"
              paramlfovcomodwheel="0.1666666716337204" paramlfovcfmodwheel="0.0"
              assignmode1="0.635986328125" assignmode2="0.6590341329574585"
@@ -17,9 +17,9 @@
              arprate1="0.7783778309822083" arprate2="0.4696559309959412" arpsync1="0.0"
              arpsync2="1.0" arprange1="0.0" arprange2="0.54730224609375" arpmode1="0.0"
              arpmode2="0.02066369913518429" arpsyncmode="0.0" lforate1="0.1681782454252243"
-             lforate2="0.2589668929576874" lfosync1="0.0" lfosync2="0.0" lfodelay1="0.0"
+             lforate2="0.297915518283844" lfosync1="0.0" lfosync2="0.0" lfodelay1="0.0"
              lfodelay2="0.4377877414226532" lfowaveform1="0.0" lfowaveform2="0.03017578087747097"
-             lfotrigger1="0.0" lfotrigger2="0.0" vcomodulatorlfoamount1="0.5"
+             lfotrigger1="0.0" lfotrigger2="1.0" vcomodulatorlfoamount1="0.5"
              vcomodulatorlfoamount2="0.1464029252529144" vcomodulatorenvamount1="0.5"
              vcomodulatorenvamount2="0.5035154819488525" vcomodulatorvcodestination1="0.0"
              vcomodulatorvcodestination2="0.0" vcomodulatorpwmamount1="0.0"
@@ -42,8 +42,8 @@
              vco2finetune1="0.5" vco2finetune2="0.6281319260597229" vco2sync1="0.5"
              vco2sync2="0.0" vco2lowfreq1="1.0" vco2lowfreq2="1.0" paramhpcutoff1="0.0"
              paramhpcutoff2="0.0004660032573156059" paramfiltercutoff1="0.4318200647830963"
-             paramfiltercutoff2="0.8287345170974731" paramfilterresonance1="1.0"
-             paramfilterresonance2="0.3998533189296722" paramfilterslope1="0.0"
+             paramfiltercutoff2="0.8334818482398987" paramfilterresonance1="1.0"
+             paramfilterresonance2="0.6060192584991455" paramfilterslope1="0.0"
              paramfilterslope2="0.0" paramfilterenvelope1="0.8888958692550659"
              paramfilterenvelope2="0.1612802445888519" paramfilterenvelopesource1="0.6067315936088562"
              paramfilterenvelopesource2="1.0" paramfilterlfo1="0.5" paramfilterlfo2="0.5002930164337158"
@@ -58,8 +58,7 @@
              delaySync="0.0" delaySpread="0.7659985423088074" delayLowCut="0.815350353717804"
              delayHighCut="0.1556982398033142" delayFeedback="0.3986400067806244"
              engineoff="0.0" mpeEnabled="0.0" pitchwheel="0.5" modulationwheel="0.0"
-             arpextramode1="0.0" arpextramode2="0.0" midipanelmode="0.0" mtsEnabled="0.0"
-             paramxmodfrequencydrop1="0.5" paramxmodfrequencydrop2="0.5">
+             lowcpumode="0.0">
       <tuningtable name="No Microtuning">
         <entry tuning="0.0"/>
         <entry tuning="1.0"/>
@@ -228,10 +227,7 @@
                      attack="0.5181381106376648" decay="0.4526421129703522" release="0.5224834084510803"
                      pan="0.5"/>
       </voicetunings>
-      <midimap>
-        <map param="paramfilterresonance2" controllernumber="71"/>
-        <map param="paramfiltercutoff2" controllernumber="74"/>
-      </midimap>
+      <midimap/>
     </program>
   </programs>
 </tal>
